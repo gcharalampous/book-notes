@@ -10,14 +10,16 @@
   - [Author: Daniel Kahneman](#author-daniel-kahneman)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
-  - [Part 1: Two systems](#part-1-two-systems)
+  - [Part-I: Two systems](#part-i-two-systems)
     - [Summary](#summary)
     - [Key Points](#key-points)
       - [Ch 1: The Characters of the Story](#ch-1-the-characters-of-the-story)
       - [Ch 2: The Characters of the Story](#ch-2-the-characters-of-the-story)
       - [Ch 3: The Lazy Controller](#ch-3-the-lazy-controller)
+      - [Ch 4: The Associative Machine](#ch-4-the-associative-machine)
+      - [Ch 5: Cognitive Ease](#ch-5-cognitive-ease)
     - [Reflections](#reflections)
-  - [Chapter 2: Chapter Title](#chapter-2-chapter-title)
+  - [Part-II: Chapter Title](#part-ii-chapter-title)
     - [Summary](#summary-1)
     - [Key Points](#key-points-1)
     - [Reflections](#reflections-1)
@@ -35,7 +37,7 @@
 
 ---
 
-## Part 1: Two systems
+## Part-I: Two systems
 
 ### Summary
 
@@ -65,13 +67,28 @@
 - High-demand System 2 activities require self-control, which is depleting and unpleasant. Ego depletion involves a loss of motivation, making it harder to exert self-control again.
 - Stanovich argues that rationality should be distinguished from intelligence.
 
+#### Ch 4: The Associative Machine
+- An odd feature is that your System 1 treated the mere conjunction of two words as reality (banana, vomit). Your body reacted as if to the real thing, with emotional and physical responses forming part of the interpretation.
+- In the current view of associative memory, an activated idea triggers many others simultaneously, which then activate even more ideas.
+- Only a few activated ideas reach consciousness; most associative thinking occurs silently and unconsciously.
+- It's hard to accept, but true: you know far less about yourself than you feel you do because much of your mind's workings are hidden from your experience.
+- Influencing of an action by the idea—is known as the ideomotor effect. The ideomotor link also works in reverse.
+- System 1 provides the impressions that often turn into your beliefs, and is the source of the impulses that often become your choices and your actions. It offers a tacit interpretation of what happens to you and around you, linking the present with the recent past and with expectations about the near future. It is the source of your rapid and often precise intuitive judgments.
+
+#### Ch 5: Cognitive Ease
+- One of the dials measures cognitive ease, ranging from "Easy" to "Strained." "Easy" indicates smooth functioning with no threats or major news, requiring no redirection of attention or effort. "Strained" signals a problem, necessitating increased mobilization of System 2.
+- A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.
+- The familiarity of one phrase in a statement can make the entire statement feel familiar and true. If you can't remember the source of a statement and can't relate it to other knowledge, you rely on cognitive ease.
+- In order to make people to believe you the general principle is that anything you can do to reduce cognitive strain will help, so you should first maximize legibility.
+- System 1 can respond to events unknown to System 2. The mere exposure effect is stronger for stimuli never consciously seen by the individual.
+- The evidence linking good feelings, cognitive ease, and the intuition of coherence is correlational. Despite this, good feelings do lead to intuitions of coherence.
 ### Reflections
 
 - [Your personal thoughts or reflections on the chapter]
 
 ---
 
-## Chapter 2: Chapter Title
+## Part-II: Chapter Title
 
 ### Summary
 
@@ -107,6 +124,9 @@
 
 - “This is your System 1 talking. Slow down and let your System 2 take control.” – Chapter-1
 - “What came quickly to my mind was an intuition from System 1. I’ll have to start over and search my memory deliberately.” - Chapter-2
+- "His ego was depleted after a long day of meetings. So he just turned to standard operating procedures instead of thinking through the problem." - Chapter-3
+- "His System 1 constructed a story, and his System 2 believed it. It happens to all of us." - Chapter-4
+- "I’m in a very good mood today, and my System 2 is weaker than usual. I should be extra careful." - Chapter-5
 
 ---
 
