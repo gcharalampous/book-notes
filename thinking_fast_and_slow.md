@@ -18,6 +18,7 @@
       - [Ch 3: The Lazy Controller](#ch-3-the-lazy-controller)
       - [Ch 4: The Associative Machine](#ch-4-the-associative-machine)
       - [Ch 5: Cognitive Ease](#ch-5-cognitive-ease)
+      - [Ch 6: Norms, Surprises, and Causes](#ch-6-norms-surprises-and-causes)
     - [Reflections](#reflections)
   - [Part-II: Chapter Title](#part-ii-chapter-title)
     - [Summary](#summary-1)
@@ -82,6 +83,17 @@
 - In order to make people to believe you the general principle is that anything you can do to reduce cognitive strain will help, so you should first maximize legibility.
 - System 1 can respond to events unknown to System 2. The mere exposure effect is stronger for stimuli never consciously seen by the individual.
 - The evidence linking good feelings, cognitive ease, and the intuition of coherence is correlational. Despite this, good feelings do lead to intuitions of coherence.
+
+#### Ch 6: Norms, Surprises, and Causes
+- The spreading of activation in the associative machine is automatic, but System 2 has some ability to control the search of memory and to program it so that the detection of an event in the environment can attract attention.
+- The main function of System 1 is to maintain and update a model of your personal world, which represents what is normal in it.
+- Surprise is essential to our mental life and the most sensitive indicator of our understanding and expectations of the world.
+- When something cement does not fit into the current context of activated ideas, the system detects an abnormality, as you just experienced. 
+- System 1, which understands language, has access to norms of categories, which specify the range of plausible values as well as the most typical cases.
+- Common wisdom held that we infer physical causality from repeated observations of event correlations.
+- From birth, we are ready to form impressions of causality without reasoning about patterns of causation; these are products of System 1. 
+
+
 ### Reflections
 
 - [Your personal thoughts or reflections on the chapter]
@@ -127,6 +139,7 @@
 - "His ego was depleted after a long day of meetings. So he just turned to standard operating procedures instead of thinking through the problem." - Chapter-3
 - "His System 1 constructed a story, and his System 2 believed it. It happens to all of us." - Chapter-4
 - "I’m in a very good mood today, and my System 2 is weaker than usual. I should be extra careful." - Chapter-5
+- "he can’t accept that she was just unlucky; she needs a causal story. She will end up thinking that someone intentionally sabotaged her work." - Chapter 6
 
 ---
 
