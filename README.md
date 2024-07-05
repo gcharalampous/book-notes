@@ -30,7 +30,5 @@ Each book has its own folder containing notes in markdown format. The notes are 
 
 ### Incomplete
 - [Thinking, Fast and Slow](thinking_fast_and_slow.md)
-- [The Laws of Human Nature](the_laws_of_human_nature.md)
-- [The 48 Laws of Power](the_-_48_laws_of_power.md)
 - More to come!
 
