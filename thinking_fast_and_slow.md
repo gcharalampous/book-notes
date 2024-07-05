@@ -20,6 +20,8 @@
       - [Ch 5: Cognitive Ease](#ch-5-cognitive-ease)
       - [Ch 6: Norms, Surprises, and Causes](#ch-6-norms-surprises-and-causes)
       - [Ch 7: A Machine for Jumping Conclusions](#ch-7-a-machine-for-jumping-conclusions)
+      - [Ch 8: How Judgments Happen](#ch-8-how-judgments-happen)
+      - [Ch 9: Answering an Easier Question](#ch-9-answering-an-easier-question)
     - [Reflections](#reflections)
   - [Part-II: Chapter Title](#part-ii-chapter-title)
     - [Summary](#summary-1)
@@ -43,7 +45,7 @@
 
 ### Summary
 
-[Write a brief summary of the chapter here]
+In summary, Chapter 1 effectively lays the foundation for understanding the dual processes of the human mind. It invites readers to be more mindful of their thinking patterns and the potential for cognitive errors, encouraging a more deliberate and reflective approach to decision-making.
 
 ### Key Points
 #### Ch 1: The Characters of the Story
@@ -109,9 +111,32 @@
 - Framing effects: Different ways of presenting the same information often evoke different emotions.
 - Base-rate neglect: Statistical fact almost certainly did not come to your mind when you first considered the question. 
 
+#### Ch 8: How Judgments Happen
+- System 2 directs attention and searches memory to answer questions, whether they are received or generated.
+- System 1 continuously monitors internal and external events, generating effortless, automatic assessments. These basic assessments influence intuitive judgment by substituting for more complex questions, central to the heuristics and biases approach.
+- Two other features of System 1 support judgment substitution: the ability to translate values across dimensions. Additionally, the *mental shotgun* effect means that when System 2 intends to answer a specific question or evaluate an attribute, it automatically triggers other computations, including basic assessments.
+- System 1, shaped by evolution, provides a continuous assessment of the main problems an organism must solve to survive.
+- Good mood and cognitive ease are the human equivalents of assessments of safety and familiarity.
+- System 1 understands language, relying on basic assessments during event perception and message comprehension. These include computations of similarity, representativeness, causality attributions, and evaluations of associations and exemplars. These assessments occur even without specific tasks, but their results are used to meet task demands as they arise.
+- System 1 carries out many computations at any one time. Some of these are routine assessments that go on continuously. 
+- However, control over intended computations is imprecise; we often compute more than necessary. This excess computation is called the *mental shotgun*.
+
+#### Ch 9: Answering an Easier Question
+- Heuristic: a simple procedure to find adequate, though often imperfect, answers to difficult questions.
+- When judging probability, people often judge something else, believing they've judged probability. System 1 does this when a related, easier heuristic question comes to mind.
+- The mental shotgun generates quick answers to difficult questions without burdening lazy System 2.
+- Heuristic questions offer an off-the-shelf answer to difficult target questions.
+- The mental shotgun and intensity matching provide answers to easy questions that map onto the target question. Sometimes, substitution occurs, and System 2 endorses a heuristic answer. Although System 2 can reject or modify it, a lazy System 2 often endorses the heuristic answer with minimal scrutiny.
+- The essential step in the heuristic—substituting three-dimensional for two-dimensional size—occurred automatically.
+- The key step in the heuristic—the substitution of three-dimensional for two-dimensional size—occurred automatically.
+- The dominance of conclusions over arguments is most pronounced where emotions are involved. 
+- Your conclusions aren't fixed; they're open to change with new information and sensible reasoning. Your beliefs and emotions may shift if you learn the risks of an activity you disliked are smaller than you thought.
+- Self-criticism is one of the functions of System 2. 
+- In the context of attitudes, System 2 tends to justify the emotions of System 1 rather than critically evaluate them, acting more as an endorser than an enforcer.
+
 ### Reflections
 
-- [Your personal thoughts or reflections on the chapter]
+- Chapter-1 sets the stage for a deeper understanding of human behavior by explaining the dual-system approach. It provides a framework of why we often rely on intuition, and how we misled by it. Understanding the dynamics between System 1 and System 2 can have practical implications in various fields such as marketing, economics, and personal decision-making. The chapter introduces the idea that System 1 is prone to biases and errors because it operates quickly and on the basis of heuristics (mental shortcuts). 
 
 ---
 
@@ -155,6 +180,7 @@
 - "His System 1 constructed a story, and his System 2 believed it. It happens to all of us." - Chapter-4
 - "I’m in a very good mood today, and my System 2 is weaker than usual. I should be extra careful." - Chapter-5
 - "he can’t accept that she was just unlucky; she needs a causal story. She will end up thinking that someone intentionally sabotaged her work." - Chapter 6
+- "He likes the project, so he thinks its costs are low and its benefits are high. Nice example of the affect heuristic." - Chapter 9
 
 ---
 
