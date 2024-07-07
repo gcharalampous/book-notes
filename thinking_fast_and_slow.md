@@ -23,9 +23,9 @@
       - [Ch 8: How Judgments Happen](#ch-8-how-judgments-happen)
       - [Ch 9: Answering an Easier Question](#ch-9-answering-an-easier-question)
     - [Reflections](#reflections)
-  - [Part-II: Chapter Title](#part-ii-chapter-title)
+  - [Part-II: Heuristics and Biases](#part-ii-heuristics-and-biases)
     - [Summary](#summary-1)
-    - [Key Points](#key-points-1)
+      - [Ch 10: The Law of Small Numbers](#ch-10-the-law-of-small-numbers)
     - [Reflections](#reflections-1)
   - [Summary](#summary-2)
   - [Key Takeaways](#key-takeaways)
@@ -136,21 +136,23 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 
 ### Reflections
 
-- Chapter-1 sets the stage for a deeper understanding of human behavior by explaining the dual-system approach. It provides a framework of why we often rely on intuition, and how we misled by it. Understanding the dynamics between System 1 and System 2 can have practical implications in various fields such as marketing, economics, and personal decision-making. The chapter introduces the idea that System 1 is prone to biases and errors because it operates quickly and on the basis of heuristics (mental shortcuts). 
+- Part-I sets the stage for a deeper understanding of human behavior by explaining the dual-system approach. It provides a framework of why we often rely on intuition, and how we misled by it. Understanding the dynamics between System 1 and System 2 can have practical implications in various fields such as marketing, economics, and personal decision-making. The chapter introduces the idea that System 1 is prone to biases and errors because it operates quickly and on the basis of heuristics (mental shortcuts). 
 
 ---
 
-## Part-II: Chapter Title
+## Part-II: Heuristics and Biases
 
 ### Summary
 
 [Write a brief summary of the chapter here]
 
-### Key Points
+#### Ch 10: The Law of Small Numbers
 
-- [Key point 1]
-- [Key point 2]
-- [Key point 3]
+- System 1 is highly adept in one form of thinking, automatically and effortlessly identifying causal connections between events, sometimes even when the connection is spurious.
+- Large samples are more precise than small samples. Small samples yield extreme results more often than large samples do.
+- A machine for jumping to conclusions will act as if it believed in the law of small numbers and produce a representation of reality that makes too much sense.
+- The exaggerated faith in small samples is one example of a broader illusion: we focus more on the content of messages than their reliability, leading to a simpler and more coherent view of the world than the data justify. Jumping to conclusions is safer in our imagination than in reality.
+- Statistics produce many observations that seem to beg for causal explanations but do not support them. Many facts are due to chance, including sampling accidents. Causal explanations of chance events are inevitably wrong.
 
 ### Reflections
 
@@ -181,6 +183,7 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 - "I’m in a very good mood today, and my System 2 is weaker than usual. I should be extra careful." - Chapter-5
 - "he can’t accept that she was just unlucky; she needs a causal story. She will end up thinking that someone intentionally sabotaged her work." - Chapter 6
 - "He likes the project, so he thinks its costs are low and its benefits are high. Nice example of the affect heuristic." - Chapter 9
+- "I plan to keep the results of the experiment secret until we have a sufficiently large sample. Otherwise we will face pressure to reach a conclusion prematurely." - Chapter 10
 
 ---
 
