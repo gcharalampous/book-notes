@@ -26,6 +26,7 @@
   - [Part-II: Heuristics and Biases](#part-ii-heuristics-and-biases)
     - [Summary](#summary-1)
       - [Ch 10: The Law of Small Numbers](#ch-10-the-law-of-small-numbers)
+      - [Ch 11: Anchors](#ch-11-anchors)
     - [Reflections](#reflections-1)
   - [Summary](#summary-2)
   - [Key Takeaways](#key-takeaways)
@@ -154,6 +155,20 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 - The exaggerated faith in small samples is one example of a broader illusion: we focus more on the content of messages than their reliability, leading to a simpler and more coherent view of the world than the data justify. Jumping to conclusions is safer in our imagination than in reality.
 - Statistics produce many observations that seem to beg for causal explanations but do not support them. Many facts are due to chance, including sampling accidents. Causal explanations of chance events are inevitably wrong.
 
+
+#### Ch 11: Anchors
+
+- Anchoring effects arise from two mechanisms: one through deliberate adjustment (System 2) and the other via priming (System 1).
+- Adjust-and-anchor heuristic for estimating uncertain quantities: start with an anchor number, assess if it’s too high or low, and adjust your estimate accordingly. However, adjustments often stop prematurely when people feel uncertain about moving further.
+- People who shake their heads in response to an anchor tend to move further away from it, while those who nod their heads exhibit stronger anchoring effects.
+- People adjust less from the anchor when their mental resources are depleted, such as when their memory is loaded or when they are slightly intoxicated.
+- Adjustment is a deliberate and conscious activity, but in most cases of anchoring there is no corresponding subjective experience.
+- System 1 processes sentences by attempting to make them true, leading to the selective activation of compatible thoughts. This can result in systematic errors that make us gullible and overly confident in our beliefs.
+- System 1 tries its best to construct a world in which the anchor is the true number. 
+- Both suggestion and anchoring are driven by the automatic operations of System 1. 
+- Deliberately "thinking the opposite" can be an effective defense against anchoring effects, as it counters the biased thought processes that contribute to them.
+- System 2 relies on data retrieved by System 1, making it susceptible to biases from anchors that facilitate information retrieval. Additionally, System 2 lacks control over these effects and is unaware of them.
+
 ### Reflections
 
 - [Your personal thoughts or reflections on the chapter]
@@ -184,6 +199,7 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 - "he can’t accept that she was just unlucky; she needs a causal story. She will end up thinking that someone intentionally sabotaged her work." - Chapter 6
 - "He likes the project, so he thinks its costs are low and its benefits are high. Nice example of the affect heuristic." - Chapter 9
 - "I plan to keep the results of the experiment secret until we have a sufficiently large sample. Otherwise we will face pressure to reach a conclusion prematurely." - Chapter 10
+- “Our aim in the negotiation is to get them anchored on this number.” - Chapter 11
 
 ---
 
