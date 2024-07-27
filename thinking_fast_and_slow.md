@@ -27,6 +27,7 @@
     - [Summary](#summary-1)
       - [Ch 10: The Law of Small Numbers](#ch-10-the-law-of-small-numbers)
       - [Ch 11: Anchors](#ch-11-anchors)
+      - [Ch 12: The Science of Availability](#ch-12-the-science-of-availability)
     - [Reflections](#reflections-1)
   - [Summary](#summary-2)
   - [Key Takeaways](#key-takeaways)
@@ -168,6 +169,19 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 - Both suggestion and anchoring are driven by the automatic operations of System 1. 
 - Deliberately "thinking the opposite" can be an effective defense against anchoring effects, as it counters the biased thought processes that contribute to them.
 - System 2 relies on data retrieved by System 1, making it susceptible to biases from anchors that facilitate information retrieval. Additionally, System 2 lacks control over these effects and is unaware of them.
+
+#### Ch 12: The Science of Availability
+
+- We defined the availability heuristic as the process of judging frequency by “the ease with which instances come to mind.”
+- Sources of bias
+  - A salient event that attracts your attention will be easily retrieved from memory.
+  - A dramatic event temporarily increases the availability of its category. 
+  - Personal experiences, pictures, and vivid examples are more available than incidents that happened to others, or mere words, or statistics.
+- The ease of recalling assertiveness instances changes during the task: starts easy, becomes harder. The expected gradual fluency drop between six and twelve instances is steeper than anticipated.
+- System 1 sets expectations and is surprised when they are violated, retrieving possible causes from recent surprises. System 2 can reset System 1's expectations, making surprising events seem normal.
+- People who are personally involved in the judgment are more likely to consider the number of instances they retrieve from memory and less likely to go by fluency.
+- The conclusion is that the ease with which instances come to mind is a System 1 heuristic, which is replaced by a focus on content when System 2 is more engaged.
+- Evidence shows that people guided by System 1 are more susceptible to availability biases than those in a state of higher vigilance.
 
 ### Reflections
 
