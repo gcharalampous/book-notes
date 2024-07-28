@@ -28,6 +28,7 @@
       - [Ch 10: The Law of Small Numbers](#ch-10-the-law-of-small-numbers)
       - [Ch 11: Anchors](#ch-11-anchors)
       - [Ch 12: The Science of Availability](#ch-12-the-science-of-availability)
+      - [Ch 13: Availability, Emotion, and Risk](#ch-13-availability-emotion-and-risk)
     - [Reflections](#reflections-1)
   - [Summary](#summary-2)
   - [Key Takeaways](#key-takeaways)
@@ -183,6 +184,16 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 - The conclusion is that the ease with which instances come to mind is a System 1 heuristic, which is replaced by a focus on content when System 2 is more engaged.
 - Evidence shows that people guided by System 1 are more susceptible to availability biases than those in a state of higher vigilance.
 
+#### Ch 13: Availability, Emotion, and Risk
+- The world in our heads is not an exact replica of reality; our expectations about event frequency are distorted by the prevalence and emotional intensity of the messages we receive.
+- They observed that the ease with which ideas of various risks come to mind and the emotional reactions to these risks are inextricably linked.
+- People form opinions and make choices based on their feelings and basic tendencies to approach or avoid, often without realizing it. The affect heuristic is an instance of substitution, where the answer to an easy question (How do I feel about it?) serves as an answer to a harder question (What do I think about it?).
+- People’s emotional evaluations of outcomes, along with the bodily states and approach or avoidance tendencies associated with them, play a central role in guiding decision-making.
+- All heuristics are equal, but availability is more equal than the others. This expanded notion of the heuristic suggests that availability affects judgments beyond frequency. Specifically, the importance of an idea is often judged by how fluently (and emotionally charged) it comes to mind.
+- A basic limitation of our mind in dealing with small risks is that we either ignore them altogether or give them far too much weight—nothing in between.
+- 
+
+
 ### Reflections
 
 - [Your personal thoughts or reflections on the chapter]
@@ -214,6 +225,7 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 - "He likes the project, so he thinks its costs are low and its benefits are high. Nice example of the affect heuristic." - Chapter 9
 - "I plan to keep the results of the experiment secret until we have a sufficiently large sample. Otherwise we will face pressure to reach a conclusion prematurely." - Chapter 10
 - “Our aim in the negotiation is to get them anchored on this number.” - Chapter 11
+- This is an availability cascade: a nonevent that is inflated by the media and the public until it fills our TV screens and becomes all anyone is talking about. - Chappter 13
 
 ---
 
