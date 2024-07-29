@@ -103,13 +103,6 @@
 
 ## Favorite Quotes
 
-- “This is your System 1 talking. Slow down and let your System 2 take control.” – Chapter-1
-- “What came quickly to my mind was an intuition from System 1. I’ll have to start over and search my memory deliberately.” - Chapter-2
-- "His ego was depleted after a long day of meetings. So he just turned to standard operating procedures instead of thinking through the problem." - Chapter-3
-- "His System 1 constructed a story, and his System 2 believed it. It happens to all of us." - Chapter-4
-- "I’m in a very good mood today, and my System 2 is weaker than usual. I should be extra careful." - Chapter-5
-- "he can’t accept that she was just unlucky; she needs a causal story. She will end up thinking that someone intentionally sabotaged her work." - Chapter 6
-- "He likes the project, so he thinks its costs are low and its benefits are high. Nice example of the affect heuristic." - Chapter 9
 - "I plan to keep the results of the experiment secret until we have a sufficiently large sample. Otherwise we will face pressure to reach a conclusion prematurely." - Chapter 10
 - “Our aim in the negotiation is to get them anchored on this number.” - Chapter 11
 - This is an availability cascade: a nonevent that is inflated by the media and the public until it fills our TV screens and becomes all anyone is talking about. - Chappter 13

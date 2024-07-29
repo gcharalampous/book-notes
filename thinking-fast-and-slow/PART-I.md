@@ -146,10 +146,6 @@ In summary, Chapter 1 effectively lays the foundation for understanding the dual
 - "I’m in a very good mood today, and my System 2 is weaker than usual. I should be extra careful." - Chapter-5
 - "he can’t accept that she was just unlucky; she needs a causal story. She will end up thinking that someone intentionally sabotaged her work." - Chapter 6
 - "He likes the project, so he thinks its costs are low and its benefits are high. Nice example of the affect heuristic." - Chapter 9
-- "I plan to keep the results of the experiment secret until we have a sufficiently large sample. Otherwise we will face pressure to reach a conclusion prematurely." - Chapter 10
-- “Our aim in the negotiation is to get them anchored on this number.” - Chapter 11
-- This is an availability cascade: a nonevent that is inflated by the media and the public until it fills our TV screens and becomes all anyone is talking about. - Chappter 13
-- “They keep making the same mistake: predicting rare events from weak evidence. When the evidence is weak, one should stick with the base rates.” - Chapter 14
 
 ---
 
