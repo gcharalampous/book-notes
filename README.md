@@ -29,6 +29,6 @@ Each book has its own folder containing notes in markdown format. The notes are 
 ## Books Covered
 
 ### Incomplete
-- [Thinking, Fast and Slow](thinking_fast_and_slow.md)
+- [Thinking, Fast and Slow](thinking-fast-and-slow/README.md)
 - More to come!
 
