@@ -13,8 +13,8 @@
 ## **Instructions**
 
 ### 1. **Prepare Your Sourdough Starter**
-   - If you have had the pleasure of meeting me in real life, I might have shared some of my sourdough starter with you. If not, unlucky for you, but at least I am providing instructions on how to create your own **[sourdough starter](sourdough_starter.md)**.
-   - Feed it every day like it’s a Tamagotchi from the ‘90s. I used to have one of those. If it dies, it’s on you! Just kidding, you can feed it once a week and keep it in the refrigerator.
+   - If you had the pleasure of meeting me in person, I might have shared some of my sourdough starter with you. If not, unlucky for you, but at least I am providing instructions on how to create your own **[sourdough starter](sourdough_starter.md)**.
+   - Feed it every day like it’s a Tamagotchi from the ‘90s. I used to have one of those! If it dies, it’s on you, just kidding! You can actually feed it once a week and keep it in the refrigerator.
    - Before you start baking, let the sourdough starter come to room temperature, discard half of it, and feed it. It should be bubbling and doubling in size in about 4-6 hours. If not, it’s time for a heart-to-heart chat with your starter.
 
 ### 2. **Mixing the Dough**
@@ -22,7 +22,7 @@
    - **Sprinkle 13g of salt** over the dough. Pretend you are seasoning a fancy dish on a cooking show or channel your inner Salt Bae and imagine you are seasoning a golden steak! 
    - Work the salt into the dough until it’s evenly distributed. It might feel like giving a massage to a reluctant cat like Mapple.
    - **Add 150g of your overly coddled sourdough starter** with **525g of water**. Mix until a shaggy mess forms. It should look like something you found under your bed after a month of avoiding chores.
-   - **Continue mixing for 3-5 minutes**. Things can get sticky in this step.Kind of like trying to leave a party when your favorite song comes on!
+   - **Continue mixing for 3-5 minutes**. Things can get sticky in this step, kind of like trying to leave a party when your favorite song comes on!
    - Cover the bowl with a damp towel and **let it rest** for 20 minutes. The dough needs a nap, and so do you. You have done so much up to this step.
 
 
@@ -38,7 +38,7 @@
 ### 5. **Shaping the Dough**
    - After the bulk fermentation, split the dough into two equal parts! Cover with a damp towel, and let it rest for 20 minute on the counter.
    - Gently shape your dough into a round ball. Use the bulls-eye technique. If it’s more blob than ball, just go with it.
-   - Place it in a well-floured proofing basket, seam side up, and cover it with a towel. Tell it a bedtime story.
+   - Place it in a well-floured proofing basket, flip it upside down, and cover it with a towel. Tell it a bedtime story.
 
 ### 6. **Final Proof**
    - Let the dough rest in the fridge overnight. It's basically on a spa retreat, so let it chill (literally).
