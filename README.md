@@ -10,6 +10,7 @@ Welcome to my Book Notes Repository! This repository is a collection of notes an
   - [Why Share Notes?](#why-share-notes)
   - [How to Use This Repository](#how-to-use-this-repository)
   - [Books Covered](#books-covered)
+    - [Complete](#complete)
     - [Incomplete](#incomplete)
 
 ## Introduction
@@ -27,6 +28,10 @@ Reading books is a great way to gain knowledge, explore new ideas, and see the w
 Each book has its own folder containing notes in markdown format. The notes are organized by chapter or section, with key points, quotes, and personal reflections. Feel free to browse through the notes, leave comments, or suggest additional insights. 
 
 ## Books Covered
+
+### Complete
+- [My Famous Sourdough Bread Recipe](my-sourdough/README.md)
+
 
 ### Incomplete
 - [Thinking, Fast and Slow](thinking-fast-and-slow/README.md)
