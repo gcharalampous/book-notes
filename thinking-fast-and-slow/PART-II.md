@@ -16,6 +16,7 @@
       - [Ch 12: The Science of Availability](#ch-12-the-science-of-availability)
       - [Ch 13: Availability, Emotion, and Risk](#ch-13-availability-emotion-and-risk)
       - [Ch 14: Availability, Emotion, and Risk](#ch-14-availability-emotion-and-risk)
+      - [Ch 15: Linda: Less is More](#ch-15-linda-less-is-more)
     - [Reflections](#reflections)
   - [Key Takeaways](#key-takeaways)
   - [Favorite Quotes](#favorite-quotes)
@@ -85,6 +86,15 @@
 - The essential keys to disciplined Bayesian reasoning can be simply summarized:
   - Anchor your judgment of the probability of an outcome on a plausible base rate.
   - Question the diagnosticity of your evidence.
+
+
+#### Ch 15: Linda: Less is More
+
+- The conjunction fallacy occurs when people assume that the combination of two events is more likely than just one event alone, even though it's statistically less probable. This often happens due to representativeness heuristics, where specific details make the combined scenario seem more plausible.
+- Coherent stories often appear more plausible because they align with our expectations and intuitions, but that doesn't make them more probable. Plausibility can mislead people into confusing it with probability, especially when the narrative fits well together, even if it's statistically unlikely.
+- The absurdity of the less-is-more pattern was clear in Hsee’s dinnerware study but unnoticed by thousands who committed the conjunction fallacy in the Linda problem. The plausibility of the conjunction was enough for System 2 endorsement.
+ 
+
 
 ### Reflections
 
