@@ -20,7 +20,7 @@
 ### 2. **Mixing the Dough**
    - **In a large bowl,** mix the **600g strong flour** and the **150g whole wheat bread flour** together.
    - **Sprinkle 13g of salt** over the dough. Pretend you are seasoning a fancy dish on a cooking show or channel your inner Salt Bae and imagine you are seasoning a golden steak! 
-   - Work the salt into the dough until it’s evenly distributed. It might feel like giving a massage to a reluctant cat like Mapple.
+   - Work the salt into the dough until it’s evenly distributed. It might feel like giving a massage to a reluctant cat like Maple.
    - **Add 150g of your overly coddled sourdough starter** with **525g of water**. Mix until a shaggy mess forms. It should look like something you found under your bed after a month of avoiding chores.
    - **Continue mixing for 3-5 minutes**. Things can get sticky in this step, kind of like trying to leave a party when your favorite song comes on!
    - Cover the bowl with a damp towel and **let it rest** for 20 minutes. The dough needs a nap, and so do you. You have done so much up to this step.
