@@ -93,7 +93,12 @@
 - The conjunction fallacy occurs when people assume that the combination of two events is more likely than just one event alone, even though it's statistically less probable. This often happens due to representativeness heuristics, where specific details make the combined scenario seem more plausible.
 - Coherent stories often appear more plausible because they align with our expectations and intuitions, but that doesn't make them more probable. Plausibility can mislead people into confusing it with probability, especially when the narrative fits well together, even if it's statistically unlikely.
 - The absurdity of the less-is-more pattern was clear in Hsee’s dinnerware study but unnoticed by thousands who committed the conjunction fallacy in the Linda problem. The plausibility of the conjunction was enough for System 2 endorsement.
- 
+
+
+#### Ch 16: Causes Trump Statistics
+- Statistical base rates are facts about a population to which a case belongs, but they are not relevant to the individual case. Statistical base rates are generally underweighted, and sometimes neglected altogether
+- Causal base rates change your view of how the individual case came to be. Causal base rates are treated as information about the individual case and are easily combined with other case-specific information.
+- The social norm against stereotyping and profiling has fostered a more equitable society, but neglecting valid stereotypes can lead to poor judgments.
 
 
 ### Reflections
